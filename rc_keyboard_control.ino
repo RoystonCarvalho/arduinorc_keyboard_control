@@ -101,6 +101,4 @@ void send_command(int command, int time){
     }
 }
 
-//day 15
-hello printed
-hey
+

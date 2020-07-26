@@ -100,3 +100,7 @@ void send_command(int command, int time){
      default: Serial.print("Inalid Command\n");
     }
 }
+
+//day 15
+hello printed
+hey

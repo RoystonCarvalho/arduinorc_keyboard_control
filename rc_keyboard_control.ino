@@ -2,10 +2,10 @@
 int right_pin = 6;
 int left_pin = 7;
 int forward_pin = 10;
-int reverse_pin = 8;
+int reverse_pin = 9;
 
 // duration for output
-int time = 60;
+int time = 50;
 // initial command
 int command = 0;
 
